@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "add.h"
 
 int add_integers(int a, int b){
