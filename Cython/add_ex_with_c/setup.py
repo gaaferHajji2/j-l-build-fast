@@ -1,7 +1,7 @@
 from setuptools import setup, Extension
 from Cython.Build import cythonize
 
-# defin c extension
+# define c extension
 ext_modules = [
     Extension(
         'add_wrapper',
